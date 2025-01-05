@@ -102,7 +102,7 @@ def chatapi_client(username, password):
                 print("Invalid choice. Please select a number between 1 and 5.\n")
             
         except Exception as e:
-            print({"error": f"An unexpected error occurred: {str(e)}"})
+            print({"error": f"An unexpected error occurred: {str(e)}\n"})
 
 if __name__ == "__main__":
     username = input("Input username: ")
