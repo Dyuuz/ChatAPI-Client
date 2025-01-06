@@ -33,7 +33,7 @@ Usage
 
 1. Run the script:
 
-python chat_client.py
+python API_cal.py
 
 
 2. Follow the interactive prompts:
