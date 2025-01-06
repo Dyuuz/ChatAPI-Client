@@ -19,3 +19,11 @@ Dynamic API Interaction: Interacts with the ChatApi backend through pre-defined 
 Task Automation: Automates the process of making API requests for common tasks.
 
 Lightweight and Portable: Runs as a standalone Python script with minimal dependencies.
+
+Installation
+
+1. Clone the repository:
+
+git clone https://github.com/dyuuz/chatapi-client.git
+
+cd chatapi-client
