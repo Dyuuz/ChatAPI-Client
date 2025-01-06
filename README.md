@@ -22,8 +22,26 @@ Lightweight and Portable: Runs as a standalone Python script with minimal depend
 
 Installation
 
-1. Clone the repository:
+Clone the repository:
 
 git clone https://github.com/dyuuz/chatapi-client.git
 
 cd chatapi-client
+
+
+Usage
+
+1. Run the script:
+
+python chat_client.py
+
+
+2. Follow the interactive prompts:
+
+The script will present you with a list of commands to choose from.
+
+Input the command corresponding to the task you want to perform.
+
+
+
+3. Provide the necessary information for each task as prompted by the script.
